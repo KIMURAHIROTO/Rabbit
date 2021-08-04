@@ -21,7 +21,7 @@ Love it<ラビット>
 https://docs.google.com/presentation/d/1V_n18C1cj7OM1txhv39yvSrkCdYY_RFx34eaba2exNk/edit?usp=sharing
 
 ＥＲ図
-https://drive.google.com/file/d/1py6mTGnL2YljJFr-fH2YW4hKoIK8w62Y/view?usp=sharing
+https://app.diagrams.net/#G1tsg5fWJKA_Y_ihep0hberNXeA1EaP2Ss
 
 テーブル定義書
 https://docs.google.com/spreadsheets/d/1JjE4LuLZ0UOgg8RwpaS8FBywhU5ghyvIn184xe_duZM/edit?usp=sharing
